@@ -26,12 +26,36 @@ importance : interview point of view :
 
 
     : Pillar 1 : Encapsulation : variables + methods : it's also used for the security purpose.
+    : we can achieve the encapsulation using getter and setter method() :
+
 
     Note* new keyword is used for memory allocation : Object will hold your memory :
 
 
-    :
+    : class_name object_name=new class_constructor() :
 
+    : Non-static : every objects is having its own copy for all non-static variable : That's why every non-static variable has a instance variable.
+      (because every instance is having there own copy).
+
+    : Static : there will be a single copy for all the static variables and that copy will be shared by all the objects.
+      For all the entire class having a single copy.
+      Only one copy for class that's why its called as class variable.
+
+    Note* without the main() method java program can't be run : why? : because main method is the entry point of the java program :
+    Note* without static keyword also main method will not be run :
+
+    : Access Modifier :
+    Modifier        class       packages       subclasses      global
+    public          yes         yes            yes             yes
+    protected       yes         yes            yes             no
+    Default         yes         yes            no              no
+    private         yes         no             no              no
+
+    : packages : when we are trying to make a same class name : can we do this? : answer is no we can't do this :
+    : packages : we can make a same class name but it should be in a different packages if should not be in same package :
+
+    : if we want to used the class then we need to import the package.
+    :
 
 
 
