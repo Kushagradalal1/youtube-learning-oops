@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03f3d6f8-4c5d-47bb-836d-f9a9ac03e234" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/packageOne/Myclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packageTwo/Myclass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Encapsulation/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Encapsulation/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstraction/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstraction/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Oops/OopsExplain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops/OopsExplain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +37,20 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/kushagradalal/Downloads/Oops/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Test (1)">
+  <component name="RunManager" selected="Application.Abstraction.Test">
+    <configuration name="Abstraction.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abstraction.Test" />
+      <module name="Oops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Abstraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Encapsulation.Test" />
       <module name="Oops" />
@@ -68,6 +79,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Abstraction.Test" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
       </list>

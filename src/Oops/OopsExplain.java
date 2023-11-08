@@ -25,7 +25,7 @@ importance : interview point of view :
     : this process is called as encapsulation : wrapping of a data-members and members function into a single unit is called as encapsulation.
 
 
-    : Pillar 1 : Encapsulation : variables + methods : it's also used for the security purpose.
+    : Pillar 1 : Encapsulation (data hiding): variables + methods : it's also used for the security purpose.
     : we can achieve the encapsulation using getter and setter method() :
 
 
@@ -55,7 +55,15 @@ importance : interview point of view :
     : packages : we can make a same class name but it should be in a different packages if should not be in same package :
 
     : if we want to used the class then we need to import the package.
-    :
+
+
+    : Pillar 2 : Abstraction : (Function Hiding) : background implementation details hiding.
+    : Abstraction can be achieve in two ways : abstract (keyword) & interface (blueprint) :
+    : we can achieve the abstraction 100% using the Interface :
+    : When we create a class and if we declared that class as an Abstract : we can't create an Object of that class :
+
+
+
 
 
 
