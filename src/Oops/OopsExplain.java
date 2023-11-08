@@ -58,10 +58,19 @@ importance : interview point of view :
 
 
     : Pillar 2 : Abstraction : (Function Hiding) : background implementation details hiding.
-    : Abstraction can be achieve in two ways : abstract (keyword) & interface (blueprint) :
+    : Abstraction can be achieve in two ways : abstract (class) & interface (blueprint) :
     : we can achieve the abstraction 100% using the Interface :
     : When we create a class and if we declared that class as an Abstract : we can't create an Object of that class :
+    : In abstact we can have final and non-final & static and non-static variables.
+    :
 
+    : Interface : Interface is a contract that defines that what a class should have.
+        Interfaces are likes abstract classes
+        Interfaces are used for creating the specification of a class.
+
+    : In Interface : 1) for data-members of an interface is public by default, private and protected.
+                     2) for member-functions of an interface is public and abstract : we can't make it protected and private.
+                     3) we cannot create an Object for an interface : but we can create a reference for an Interface.
 
 
 
