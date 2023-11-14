@@ -74,7 +74,17 @@ importance : interview point of view :
 
 
 
+    : Pillar 3 : Inheritance : concept of super class and sub class : parent class, base class, super class : derived class, child class, subclass :
 
+    : inheritance means a reusability.
+    : A new class can be reuse the properties of an existing class.
+
+
+    : Types of Inheritance :
+    1) single level inheritance :
+    2) multi level inheritance :
+    3) multiple level inheritance : not possible in java. {Java interfaces}
+    4) Hierarchical level inheritance :
 
      */
 }
