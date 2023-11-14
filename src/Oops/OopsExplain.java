@@ -86,5 +86,20 @@ importance : interview point of view :
     3) multiple level inheritance : not possible in java. {Java interfaces}
     4) Hierarchical level inheritance :
 
+    : Pillar 4 : Polymorphism : poly : many & morphism : forms :
+    : see the implementation of oops :
+
+    : Two types of polymorphism :
+    : 1) Method Overloading 2) Method Overriding
+    : Two achieve the polymorphism : we have Compile time polymorphism and run-time polymorphism
+
+    : Compile time : Overloading : RunTime : Overriding :
+    : Operator Overloading is not allowed in java : learn this concept in depth please why its not allowed in java.
+
+    : Overloading : methods name same but diff parameters ; with in class :
+    : Overriding : method name same and parameter is also same : but not with in the same class :
+    :
+
+
      */
 }
