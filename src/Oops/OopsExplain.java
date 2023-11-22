@@ -62,7 +62,13 @@ importance : interview point of view :
     : we can achieve the abstraction 100% using the Interface :
     : When we create a class and if we declared that class as an Abstract : we can't create an Object of that class :
     : In abstact we can have final and non-final & static and non-static variables.
-    :
+    : you may known the difference like...
+
+      Abstract classes may contain abstract methods, but concrete classes can’t.
+
+      Abstract classes usually have partial or no implementation. On the other hand, concrete classes always have full implementation of its behavior.
+
+      Unlike concrete classes, abstract classes cannot be instantiated. Therefore abstract classes have to be extended in order to make them useful.
 
     : Interface : Interface is a contract that defines that what a class should have.
         Interfaces are likes abstract classes
