@@ -62,6 +62,8 @@ importance : interview point of view :
     : we can achieve the abstraction 100% using the Interface :
     : When we create a class and if we declared that class as an Abstract : we can't create an Object of that class :
     : In abstact we can have final and non-final & static and non-static variables.
+    : why abstract and static show error while abstract method?
+    ->But, overriding is not possible with static methods. Therefore, an abstract method cannot be static. If you still, try to declare an abstract method static a compile time error is generated saying “illegal combination of modifiers − abstract and static”
     : you may known the difference like...
 
       Abstract classes may contain abstract methods, but concrete classes can’t.
